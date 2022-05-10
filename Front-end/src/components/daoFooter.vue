@@ -111,7 +111,7 @@
 
     </div>
     <div class="dao-footer-part3">
-      Copyright@2021 www.rainbowdao.io
+      Copyright@2022 www.nimdao.com
     </div>
   </div>
 </template>
